@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box; 
+    font-family: 'Open Sans', sans-serif; 
+} 
+
+body {
+    text-align: center;
+    background-image: url(images/genderage.png);
+    color:white; 
+    display:flex; 
+    flex-direction: column-reverse;
+    margin-top: 129px;
+    background: contain;
+  
+} 
+ 
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Josefin Sans', sans-serif;
+    color:black; 
+}
+
+h2, h3 {
+    font-size: 45px;
+    font-weight: 900;
+    color:white; 
+} 
+
+#btn, #name-input {
+    border-radius: 5px;
+
+}
